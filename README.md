@@ -1,2 +1,14 @@
-# weather-app
-A weather application that displays real-time weather information for any city.
+# Weather App
+
+A weather application that provides current weather information.
+
+## Features
+
+- Search by city
+- Live weather updates
+- Simple interface
+- Responsive design
+
+## Status
+
+🚧 Work in Progress
